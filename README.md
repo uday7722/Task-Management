@@ -13,7 +13,7 @@ A Task Management System built using Spring Boot, JPA, and MapStruct that provid
 - Validation using Jakarta Validation
 - DTO–Entity mapping using MapStruct
 - Global exception handling
-- MySQL / H2 database support
+- MySQL 
 
 ---
 
@@ -25,5 +25,5 @@ A Task Management System built using Spring Boot, JPA, and MapStruct that provid
 - Hibernate
 - MapStruct
 - Lombok
-- MySQL / H2 Database
+- MySQL 
 - Maven
